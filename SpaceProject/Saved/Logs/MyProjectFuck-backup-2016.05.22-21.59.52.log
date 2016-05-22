@@ -1,0 +1,33 @@
+﻿[2016.05.22-11.58.21:195][  0]Log file open, 05/22/16 21:58:21
+[2016.05.22-11.58.21:195][  0]LogInit:Display: Running engine for game: MyProjectFuck
+[2016.05.22-11.58.21:195][  0]LogPlatformFile: Not using cached read wrapper
+[2016.05.22-11.58.21:195][  0]LogInit:Display: RandInit(-1848069760) SRandInit(-1848069757).
+[2016.05.22-11.58.21:195][  0]LogTaskGraph: Started task graph with 4 named threads and 5 total threads.
+[2016.05.22-11.58.21:195][  0]LogStats: Stats thread started at 0.059093
+[2016.05.22-11.58.21:195][  0]LogInit:Warning: Incompatible or missing module: UE4Editor-MyProjectFuck.dll
+[2016.05.22-11.58.30:636][  0]Running B:/Unreal engine/Epic Games/4.10/Engine/Binaries/DotNET/UnrealBuildTool.exe MyProjectFuck Development Win64 -project="C:/Users/Psychonaut/Documents/Unreal Projects/SpaceProject/MyProjectFuck.uproject" -rocket -editorrecompile -progress -noubtmakefiles -2015
+[2016.05.22-11.58.35:361][  0]ERROR: Couldn't find target rules file for target 'MyProjectFuck' in rules assembly 'MyProjectFuckModuleRules, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+[2016.05.22-11.58.35:361][  0]Location: C:\Users\Psychonaut\Documents\Unreal Projects\SpaceProject\Intermediate\Build\BuildRules\MyProjectFuckModuleRules.dll
+[2016.05.22-11.58.35:361][  0]Target rules found:
+[2016.05.22-11.58.35:362][  0]	UE4Editor - B:\Unreal engine\Epic Games\4.10\Engine\Source\UE4Editor.Target.cs
+[2016.05.22-11.58.35:362][  0]	UE4Game - B:\Unreal engine\Epic Games\4.10\Engine\Source\UE4Game.Target.cs
+[2016.05.22-11.58.35:365][  0]
+[2016.05.22-11.58.35:748][  0]LogInit:Warning: Still incompatible or missing module: UE4Editor-MyProjectFuck.dll
+[2016.05.22-11.58.39:875][  0]LogExit: Preparing to exit.
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module DesktopPlatform (15)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.05.22-11.58.39:876][  0]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.05.22-11.58.39:877][  0]LogExit: Exiting.
+[2016.05.22-11.58.39:878][  0]Log file closed, 05/22/16 21:58:39

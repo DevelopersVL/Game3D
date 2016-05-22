@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>8876</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>MyProjectFuck</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.10.4-2872498+++depot+UE4-Releases+4.10</EngineVersion>
+<CommandLine>-EpicPortal  -HTTP=WinInet</CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<DefaultLocale>ru_RU</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>B:/Unreal engine/Epic Games/4.10/Engine/Binaries/Win64/</BaseDir>
+<RootDir>B:/Unreal engine/Epic Games/4.10/</RootDir>
+<MachineId>2911D8D241C43E13947DCA90DEDAE07B</MachineId>
+<EpicAccountId>d4159b7f75f942918ec126aed703196c</EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Fatal error: [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.10\Engine\Source\Runtime\CoreUObject\Private\Templates\Casts.cpp] [Line: 11] 
+Cast of Package /Engine/Transient to EdGraphNode failed
+</ErrorMessage>
+<MiscNumberOfCores>2</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>2</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>        Intel(R) Pentium(R) CPU G2120 @ 3.10GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA GeForce GT 740</MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 10</MiscOSVersionMajor>
+<MiscOSVersionMinor></MiscOSVersionMinor>
+<CrashDumpMode>0</CrashDumpMode>
+<MemoryStatsTotalPhysical>8547024896</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>140737488224256</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>8</MemoryStatsTotalPhysicalGB>
+<MemoryStatsAvailablePhysical>2932789248</MemoryStatsAvailablePhysical>
+<MemoryStatsAvailableVirtual>140729026568192</MemoryStatsAvailableVirtual>
+<MemoryStatsUsedPhysical>411754496</MemoryStatsUsedPhysical>
+<MemoryStatsPeakUsedPhysical>4049559552</MemoryStatsPeakUsedPhysical>
+<MemoryStatsUsedVirtual>7235080192</MemoryStatsUsedVirtual>
+<MemoryStatsPeakUsedVirtual>7258128384</MemoryStatsPeakUsedVirtual>
+<MemoryStatsbIsOOM>0</MemoryStatsbIsOOM>
+<MemoryStatsOOMAllocationSize>0</MemoryStatsOOMAllocationSize>
+<MemoryStatsOOMAllocationAlignment>0</MemoryStatsOOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
